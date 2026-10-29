@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I’m Harsh Yadav
+I’m learning software development and AI application building. My goal is to create practical tools that solve real problems in travel and customer service.
 
-<!--
-**harshy456987-hub/harshy456987-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently learning
+- Python
+- Git and GitHub
+- SQL and APIs
+- AI applications with large language models
 
-Here are some ideas to get you started:
+## Projects
+- **Travel Query Assistant** — planned project using fictional travel information to help answer customer questions. I’ll share progress here as I build it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+Learning the fundamentals, writing code I can explain, and documenting each project clearly.
